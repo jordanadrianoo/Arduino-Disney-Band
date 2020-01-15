@@ -3,6 +3,5 @@ This Project is inspired by the Disney bands open to the public. This project wi
 
 **Web site sorces:**
 
-```
 [Ardunio RFID Schematics and Source Code](https://randomnerdtutorials.com/security-access-using-mfrc522-rfid-reader-with-arduino/)
-```
+
